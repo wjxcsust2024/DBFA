@@ -1,3 +1,3 @@
 # DBFA
 
-Our paper has been submitted, and relevant all codes will be released once accepted.
+This article has been accepted and the relevant code has been uploaded. Please refer to this article while referencing the code. Thank you very much！
